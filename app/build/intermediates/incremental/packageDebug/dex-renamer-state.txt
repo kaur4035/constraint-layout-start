@@ -1,0 +1,7 @@
+#Tue Jul 11 00:43:14 EDT 2017
+base.0=C\:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_177618f97db568a8c45323e32cb016e784ff64c5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1faced1a00d010f71f3a78824c26e278fac22b47\\classes.dex
+base.1=C\:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1faced1a00d010f71f3a78824c26e278fac22b47
+file.0=C\:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_177618f97db568a8c45323e32cb016e784ff64c5\\classes.dex

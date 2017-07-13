@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_inference.xml",
+        "source": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_inference.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_done.xml",
+        "source": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_autoconnect.xml",
+        "source": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_autoconnect.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_start.xml",
+        "source": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_start.xml"
+    }
+]

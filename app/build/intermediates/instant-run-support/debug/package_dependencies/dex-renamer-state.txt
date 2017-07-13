@@ -1,0 +1,7 @@
+#Mon Jul 10 22:30:32 EDT 2017
+base.0=C\:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.0_cbf7e2f26f888b4eee4187ffbd21f1386ad31148
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6e30dc37b476ddcf7411d2152f56d21f8aebeb73\\classes.dex
+base.1=C\:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6e30dc37b476ddcf7411d2152f56d21f8aebeb73
+file.0=C\:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.0_cbf7e2f26f888b4eee4187ffbd21f1386ad31148\\classes.dex

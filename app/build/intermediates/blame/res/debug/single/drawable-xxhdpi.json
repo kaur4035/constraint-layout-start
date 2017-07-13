@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_info.png",
+        "source": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_ab_up_white.png",
+        "source": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ab_up_white.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_ab_drawer_mask.png",
+        "source": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ab_drawer_mask.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_star.png",
+        "source": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\shaha\\Downloads\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
